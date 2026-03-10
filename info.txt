@@ -1,0 +1,4 @@
+Carlos Uriel Vega Castañeda
+2026-03-10
+Objetivo: Practicar el flujo de trabajo en GitHub.
+PR: Un Pull Request es una petición para que el dueño del repositorio revise tus cambios en una rama y decida si los integra (merge) a la rama principal.
