@@ -1,0 +1,12 @@
+Nombre: 
+Carlos Uriel Vega Castañeda
+
+Fecha: 
+10 de Marzo del 2026
+
+Objetivo: 
+Practicar el flujo de trabajo en GitHub.
+
+PR: 
+Un Pull Request es una petición para que el dueño del repositorio revise 
+tus cambios en una rama y decida si los integra a la rama principal.
