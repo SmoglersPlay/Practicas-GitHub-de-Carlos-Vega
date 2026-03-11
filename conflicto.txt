@@ -1,5 +1,5 @@
 Proyecto: Git Conflicts
 
-Responsable: Carlos Uriel Vega Castañeda
+Responsable: EQUIPO-B
 
 Version: 1.0
